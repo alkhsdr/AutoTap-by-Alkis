@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoTap</string>
+    <string name="service_label">AutoTap – αυτόματα πατήματα</string>
+    <string name="service_desc">Επιτρέπει στο AutoTap να εκτελεί τα πατήματα και τα συρσίματα που καταγράφεις, πάνω στην οθόνη.</string>
+</resources>
